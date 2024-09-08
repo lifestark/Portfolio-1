@@ -1,0 +1,20 @@
+@import url('./font.css');
+
+:root{
+	/* Colors */
+	--white_color:white;
+	--dark_color: black;
+	--accent_color: purple;
+	--alert_color: red;
+	--warning_color: yellow;
+	--succes_color: green;
+
+	--border_radius: ;
+	--border: ;
+	
+	/* Z-index */
+	--layer-tooltip:100;
+	--layer-menu:200;
+	--layer-modal:300;
+	--layer-admin-panel:1000;
+}
